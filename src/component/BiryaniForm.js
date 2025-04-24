@@ -69,7 +69,7 @@ const BiryaniForm = () => {
                 </button>
 
                 <div>
-                  <h1>jkfhdjfhdjfh</h1>
+                  <h1>Git Hub Tests</h1>
                 <FontAwesomeIcon icon="fa-solid fa-pen" />
                 <i class="bi bi-1-square"></i>
                 <ArrowRight />
